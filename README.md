@@ -1,7 +1,8 @@
 ﻿![alt text](./images/top.svg)
 ## About me
-I love coding in Java. I work as a Java Developer.
-
+Hello guys. My name is Phi Anh Tu.
+I am a third-year student at Electronic Power University. I love coding in Java. I work as a Java Web Developer. I am learning more 'bout Java Spring and some other framework around Spring also for now.
+ 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,7 +13,7 @@ I love coding in Java. I work as a Java Developer.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ Fun fact:
+## ⚡ Below is some fact about me:
 - 👯 I’m looking for a job as an Java Web Developer.
 - 🌱 I’m currently learning Java Spring and some framework relates to Spring also.
 - :pencil2: I will try to write blog someday at least i hope so :).
@@ -20,7 +21,7 @@ I love coding in Java. I work as a Java Developer.
 
 ## ⚡ Technologies
 ### OSes
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0068C8?style=for-the-badge&logo=ubuntu)
+![Window](https://img.shields.io/badge/Window-0068C8?style=for-the-badge&logo=window)
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0068C8?style=for-the-badge&logo=visual-studio-code)
