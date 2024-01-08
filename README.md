@@ -13,17 +13,8 @@ Hello guys. My name is Phi Anh Tu.
 - ⚡ Fun fact: ...
 -->
 ## ⚡ Below is some fact about me:
-- 👯 I’m looking for a job as an Java Web Developer.
-- 🌱 I’m currently learning Java Spring and some framework relates to Spring also.
 - :pencil2: I will try to write blog someday at least i hope so :).
 - :musical_note: I love to hear ballad, rap, and r&b music instrument.
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnhTuPhi" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnhTuPhi&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 ## ⚡ Technologies
 ### OSes
@@ -53,13 +44,20 @@ Hello guys. My name is Phi Anh Tu.
 ### Ops
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnhTuPhi" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnhTuPhi&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/AnhTuPhi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/t%C3%BA-phi-9051951a0"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/p.anhtu.2000"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/anhtu_nacht/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+<!-- 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a> -->
 </p>
 
 ![alt text](./images/bottom.svg)
