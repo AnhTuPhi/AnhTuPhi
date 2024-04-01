@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ## 📊 Github Stat
 ![github stats](https://github-readme-stats.vercel.app/api?username=AnhTuPhi&theme=gruvbox&show_icons=true&count_private=true&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnhTuPhi&theme=gruvbox&hide_border=true)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnhTuPhi&theme=monokai)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnhTuPhi&theme=monokai)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnhTuPhi&theme=monokai)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnhTuPhi&theme=monokai)
