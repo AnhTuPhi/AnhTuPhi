@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 ## 🏆 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnhTuPhi&theme=gruvbox&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ## 📊 Github Stat
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnhTuPhi&theme=monokai)
-![github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anhtuphi&theme=monokai)
-![github commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhtuphi&theme=monokai&utcOffset=8)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnhTuPhi&theme=monokai)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnhTuPhi&theme=monokai)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=AnhTuPhi&theme=gruvbox&show_icons=true&count_private=true&hide_border=true)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnhTuPhi&theme=gruvbox)
+![github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anhtuphi&theme=gruvbox)
+![github commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhtuphi&theme=gruvbox&utcOffset=8)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnhTuPhi&theme=gruvbox)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnhTuPhi&theme=gruvbox)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnhTuPhi&theme=gruvbox&hide_border=true)
+
+<!--![github stats](https://github-readme-stats.vercel.app/api?username=AnhTuPhi&theme=gruvbox&show_icons=true&count_private=true&hide_border=true)-->
