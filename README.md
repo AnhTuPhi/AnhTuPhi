@@ -1,25 +1,58 @@
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-## Hi there, I'm [Anh Tu](https://www.linkedin.com/in/anhtuphi/) 👋
-![Profile views](https://komarev.com/ghpvc/?username=AnhTuPhi&color=brightgreen)
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnhTuPhi&theme=gruvbox&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-## 📊 Github Stat
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnhTuPhi&theme=gruvbox)
-![github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anhtuphi&theme=gruvbox)
-![github commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhtuphi&theme=gruvbox&utcOffset=8)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnhTuPhi&theme=gruvbox)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnhTuPhi&theme=gruvbox)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnhTuPhi&theme=gruvbox&hide_border=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+guys%2C+I'm+Anh+Tu.;A+Software+Engineer.)](https://git.io/typing-svg)
 
-<!--![github stats](https://github-readme-stats.vercel.app/api?username=AnhTuPhi&theme=gruvbox&show_icons=true&count_private=true&hide_border=true)-->
+### 📫 Contact
+
+- Linkedin: https://www.linkedin.com/in/anhtuphi/
+- Substack: https://anhtuphi.substack.com
+
+### 🚀 About Me
+
+- 🌐 **Frontend Enthusiast** – I love working with modern web technologies like React and Vue.
+- 🛠️ **Exploring Tauri** – Built cross-platform apps and plugins using Rust and Web technologies.
+- 📦 **Open Source Advocate** – I enjoy contributing to open-source projects and learning from the community.
+- 🎯 **Lifelong Learner** – Always exploring new technologies and staying updated with industry trends.
+
+<!-- ### 💻 Portfolio
+
+- 📋 [EcoPaste](https://github.com/EcoPasteHub/EcoPaste)  
+  A cross-platform clipboard manager built for speed, simplicity, and productivity.
+
+- 🐱 [BongoCat](https://github.com/ayangweb/BongoCat)  
+  A cross-platform interactive desktop application featuring the iconic Bongo Cat.
+
+- 🤖 [Coco AI](https://github.com/infinilabs/coco-app)  
+  A cross-platform app to search, connect, and collaborate — all in one place.
+
+- 🔌 [Tauri Plugins](https://github.com/ayangweb?tab=repositories&q=tauri-plugin&type=source&language=&sort=stargazers)  
+  A collection of plugins to supercharge your Tauri applications. -->
+
+### 📊 GitHub Stats
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anhtuphi&theme=vue-dark&show_icons=true&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anhtuphi&theme=vue&show_icons=true&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api?username=anhtuphi&theme=vue&show_icons=true&hide_border=true">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuphi&theme=vue-dark&layout=compact&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuphi&theme=vue&layout=compact&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuphi&theme=vue&layout=compact&hide_border=true">
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anhtuphi/AnhTuPhi/master/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anhtuphi/AnhTuPhi/master/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anhtuphi/AnhTuPhi/master/assets/github-contribution-grid-snake.svg">
+</picture>
