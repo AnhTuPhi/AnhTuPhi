@@ -7,10 +7,10 @@
 
 ### 🚀 About Me
 
-- 🌐 **Frontend Enthusiast** – I love working with modern web technologies like React and Vue.
-- 🛠️ **Exploring Tauri** – Built cross-platform apps and plugins using Rust and Web technologies.
-- 📦 **Open Source Advocate** – I enjoy contributing to open-source projects and learning from the community.
-- 🎯 **Lifelong Learner** – Always exploring new technologies and staying updated with industry trends.
+- As a dedicated and innovative software engineer, i have a passion for leveraging technology to solve complex problems and enhance user experience as well as operational efficiency.
+- I specialize in creating robust, scaleable, reliable and secure software solutions that align with organizational goals.
+- My expertise spans a wide range of technologies, methodologies and algorithms. Including microservices architecture, cloud computing AWS, Devops practices and modern programming languages such as Java, Golang. 
+- I eager to learning. I also have a passion for resolving leetcode, ctfd as well.
 
 <!-- ### 💻 Portfolio
 
