@@ -49,6 +49,9 @@
   </tbody>
 </table>
 
+### 📊 Leetcode Stats
+<source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/phianhtu2211?theme=forest&font=DM%20Sans&ext=heatmap">
+
 ### 🐍 Contribution Snake
 
 <picture>
