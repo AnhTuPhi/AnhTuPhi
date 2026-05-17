@@ -26,6 +26,7 @@
 - 🔌 [Tauri Plugins](https://github.com/ayangweb?tab=repositories&q=tauri-plugin&type=source&language=&sort=stargazers)  
   A collection of plugins to supercharge your Tauri applications. -->
 
+<!-- ### 
 ### 📊 GitHub Stats
 
 <table>
@@ -48,6 +49,7 @@
     </tr>
   </tbody>
 </table>
+-->
 
 ### 📊 Leetcode Stats
 <img src="https://leetcard.jacoblin.cool/phianhtu2211?theme=forest&font=DM%20Sans&ext=heatmap">
